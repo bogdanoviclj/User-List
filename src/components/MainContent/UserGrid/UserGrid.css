@@ -1,0 +1,19 @@
+.first {
+    margin: 0;
+}
+.card-content {
+    display: inline;
+}
+
+.main-card {
+    margin: 15px auto;
+}
+
+.card {
+    width: 20vw;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 1.2vw;
+}

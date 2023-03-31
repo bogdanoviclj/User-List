@@ -1,0 +1,12 @@
+.header {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 124, 105);
+    color: white;
+}
+
+.header h4 {
+    font-weight: 400;
+    margin: 5px;
+}

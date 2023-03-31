@@ -1,0 +1,9 @@
+.collection {
+    width: 80%;
+   margin: 10px auto;
+}
+
+p {
+    text-align: start;
+    font-weight: 500;
+}
